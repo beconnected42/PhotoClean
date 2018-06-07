@@ -1,0 +1,11 @@
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.파일정리프로그램.resources
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\diat\Desktop\AJ C#프젝\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ExifLib.dll
